@@ -10,7 +10,7 @@
   "text": {
     "more": "",
     "intro": "This graph shows the results of a student developed survey. The data is intended for students to develop proposals based on principles of Social Psychology.",
-    "title": "Middle School is Terrible Themes"
+    "title": "Student Developed Survey Results"
   },
   "legend": {
     "edgeLabel": "Collerlation Coefficient \u003e.4",
@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "curve",
+      "defaultEdgeType": "line",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
